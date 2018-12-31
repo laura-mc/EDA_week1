@@ -1,5 +1,7 @@
 # Exploratory-Data-Analysis-Week-1-Project
 
+The aim of this project is to practice multiple plotting ways. There are four different plots. For each plot there is a .R file that generates the corresponding .png file. Each .R file is commented in order to understand what is done in each step.
+
 This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the “Individual household electric power consumption Data Set” which I have made available on the course web site:
 
 1. Dataset: Electric power consumption [20Mb] (https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip)
